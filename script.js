@@ -1,0 +1,1 @@
+alert("Magic is going to happen ")
